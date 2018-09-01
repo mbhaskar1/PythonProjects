@@ -8,3 +8,5 @@ This repository contains various python projects I've worked on up until now.
 **Machine Learning**: Various python files created while going through the Python Machine Learning 2nd Edition textbook
 
 **Mondrian Art Generator**: A program I created for my AP Comp Sci A class that allows you to create Mondrian Art (Run the .exe)
+
+**Tree Fractal**: A program that uses pygame to create tiers of a tree fractal
